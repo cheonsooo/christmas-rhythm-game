@@ -16,3 +16,20 @@ body{
     border-radius:15px;
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
+
+.start_btn button{
+    all:unset;
+    cursor: pointer;
+    background-color: green;
+    padding:5px 0px;
+    width: 80px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow:0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    border:3px solid rgba(0,0,0,0.2);
+    color:raba(0,0,0,0.7);
+    text-transform: uppercase;
+    font_weight:800;
+    font-size: 12px
+
+}
